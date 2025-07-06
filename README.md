@@ -44,4 +44,10 @@ My personal portfolio website built using Loveable AI. Explore my projects, skil
 ---
 
 > ✨ *Thank you for visiting my profile! Feel free to explore my projects and connect with me.*
+> ## 🖼️ Website Preview
+
+Here is a preview of my personal portfolio website built using Loveable AI:
+
+![Portfolio Screenshot](IMG_20250706_143601207_HDR (1).jpg)
+
 
